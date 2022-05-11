@@ -17,5 +17,6 @@
     "bootstrap": "^4.6.1",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0"
-  }
+  },
+  "scss": "node-sass -o css/ css/"
 }
